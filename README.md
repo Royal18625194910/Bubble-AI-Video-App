@@ -2,6 +2,23 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## 预览
+1. 引导页
+- ![alt text](bb06107f078ce4d8dafdc98cef0bedd.jpg)
+2. 注册页
+- ![alt text](8a05b179cfbf1959a996a7d5f168235.jpg)
+3. 登录页
+- ![alt text](3ff0df8f9a037be8d9eb213f7b32d45.jpg)
+4. 首页
+- ![alt text](c5f105e27132ff6edfc4ff1032d01fa.jpg)
+5. 收藏页
+![alt text](b827d961228150779a67d507d2b008d.jpg)
+6. 上传视频页
+![alt text](63ae3c533a131c22d514ff6b642cf97.jpg)
+7. 个人页
+- ![alt text](a274c4ad7766ea3056b6af65b89fbad.jpg)
+
+
 ## Get started
 
 1. Install dependencies
